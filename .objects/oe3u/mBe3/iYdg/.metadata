@@ -1,0 +1,13 @@
+﻿{
+  "Id": "iYdg9tLykkGNHzi4p9B7Iw",
+  "Reference": "pTyevvffcU2BuISf4IsEqQ/iYdg9tLykkGNHzi4p9B7Iw",
+  "ParentRef": "pTyevvffcU2BuISf4IsEqQ/mBe3jJwby0a46z9W0nSeug",
+  "Name": "Sin título: Bloc de notas",
+  "Type": "Screen",
+  "Created": "2022-01-13T20:00:48.5501691Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-01-13T20:00:48.5501691Z"
+}
